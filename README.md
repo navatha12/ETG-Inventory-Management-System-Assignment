@@ -1,5 +1,5 @@
 # ETG-Inventory-Management-System-Assignment
-This repository is having all the codeds with json files for making an Inventory management system
+This repository is having all the coded with json files for making an Inventory management system
 
 ## I've made an inventory management system which is working on NoSQL based database
 1.I've used JSON file system for it
