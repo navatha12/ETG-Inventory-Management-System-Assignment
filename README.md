@@ -4,8 +4,8 @@ This repository is having all the codeds with json files for making an Inventory
 ## I've made an inventory management system which is working on NoSQL based database
 1.I've used JSON file system for it
 2.Adding new products to the inventory
-3.4.updating inventory
-generating bills
+3.updating inventory
+4.generating bills
 # Features of this project 
 1.product id
 2.product name
