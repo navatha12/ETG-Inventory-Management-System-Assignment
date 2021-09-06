@@ -6,7 +6,7 @@ This repository is having all the codeds with json files for making an Inventory
 2.Adding new products to the inventory
 3.updating inventory
 4.generating bills
-# Features of this project 
+## Features of this project 
 1.product id
 2.product name
 3.price
